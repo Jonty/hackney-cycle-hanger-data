@@ -1,0 +1,35 @@
+name: Update Data
+concurrency: scrape
+on: 
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-and-commit:
+    runs-on: ubuntu-latest
+    environment: scrape
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+      - name: Update and commit
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
+        run: |
+          pip install -r requirements.txt
+
+          python -u scrape_cycle_hangar_data.py
+          git add hangers.json
+          git add hangers.geojson
+
+          git config --global user.email "bot@jonty.co.uk"
+          git config --global user.name "Cycle Hanger Update GHA"
+
+          # || true means this won't error when there's nothing to commit
+          git commit -m "Automatic hanger data update" || true
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
