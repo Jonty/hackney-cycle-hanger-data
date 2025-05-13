@@ -16,6 +16,8 @@ jobs:
       - name: Update and commit
         env:
           TOKEN: ${{ secrets.TOKEN }}
+          USER: ${{ secrets.USER }}
+          PASSWORD: ${{ secrets.PASSWORD }}
         run: |
           pip install -r requirements.txt
 
