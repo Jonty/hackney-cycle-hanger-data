@@ -414,7 +414,7 @@
                 "name": "Bikehangar_194",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 1
+                "waiting_list": 2
             },
             "type": "Feature"
         },
@@ -661,7 +661,7 @@
                 "name": "Cyclehangar_2067",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -699,7 +699,7 @@
                 "name": "Cyclehangar_2069",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 9
+                "waiting_list": 8
             },
             "type": "Feature"
         },
@@ -775,7 +775,7 @@
                 "name": "Cyclehangar_2074",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 16
+                "waiting_list": 15
             },
             "type": "Feature"
         },
@@ -1934,7 +1934,7 @@
                 "name": "Cyclehangar_2268",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 12
+                "waiting_list": 11
             },
             "type": "Feature"
         },
@@ -1972,7 +1972,7 @@
                 "name": "Cyclehangar_2269",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 14
+                "waiting_list": 13
             },
             "type": "Feature"
         },
@@ -2523,7 +2523,7 @@
                 "name": "Cyclehangar_2278",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 2
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -2770,7 +2770,7 @@
                 "name": "Bikehangar_1599",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 2
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -3055,7 +3055,7 @@
                 "name": "Cyclehangar_2485",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 2
             },
             "type": "Feature"
         },
@@ -3226,7 +3226,7 @@
                 "name": "Bikehangar_340",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 22
+                "waiting_list": 21
             },
             "type": "Feature"
         },
@@ -3302,7 +3302,7 @@
                 "name": "Bikehangar_1107",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 11
+                "waiting_list": 12
             },
             "type": "Feature"
         },
@@ -3891,7 +3891,7 @@
                 "name": "Cyclehangar_2011",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 15
+                "waiting_list": 14
             },
             "type": "Feature"
         },
@@ -4195,7 +4195,7 @@
                 "name": "Bikehangar_350",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 0
+                "waiting_list": 1
             },
             "type": "Feature"
         },
@@ -4746,7 +4746,7 @@
                 "name": "Bikehangar_1379",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 15
+                "waiting_list": 14
             },
             "type": "Feature"
         },
@@ -5240,7 +5240,7 @@
                 "name": "Bikehangar_366",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 15
+                "waiting_list": 14
             },
             "type": "Feature"
         },
@@ -5487,7 +5487,7 @@
                 "name": "Cyclehangar_2472",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 13
+                "waiting_list": 12
             },
             "type": "Feature"
         },
@@ -5753,7 +5753,7 @@
                 "name": "Bikehangar_371",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 26
+                "waiting_list": 25
             },
             "type": "Feature"
         },
@@ -5829,7 +5829,7 @@
                 "name": "Cyclehoop_2262",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -6285,7 +6285,7 @@
                 "name": "Cyclehangar_2206",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 5
+                "waiting_list": 6
             },
             "type": "Feature"
         },
@@ -6950,7 +6950,7 @@
                 "name": "Bikehangar_H1434",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 21
+                "waiting_list": 22
             },
             "type": "Feature"
         },
@@ -6988,7 +6988,7 @@
                 "name": "Bikehangar_H1433",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 7
+                "waiting_list": 8
             },
             "type": "Feature"
         },
@@ -7083,7 +7083,7 @@
                 "name": "Bikehangar_1381",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 20
+                "waiting_list": 19
             },
             "type": "Feature"
         },
@@ -7273,7 +7273,7 @@
                 "name": "Cyclehoop_2247",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 4
+                "waiting_list": 5
             },
             "type": "Feature"
         },
@@ -7463,7 +7463,7 @@
                 "name": "Bikehangar_H1420",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 8
+                "waiting_list": 7
             },
             "type": "Feature"
         },
@@ -7501,7 +7501,7 @@
                 "name": "Cyclehoop_2246",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 6
+                "waiting_list": 8
             },
             "type": "Feature"
         },
@@ -7729,7 +7729,7 @@
                 "name": "Bikehangar_1386",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 10
+                "waiting_list": 11
             },
             "type": "Feature"
         },
@@ -7900,7 +7900,7 @@
                 "name": "Bikehangar_H1425",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 13
+                "waiting_list": 12
             },
             "type": "Feature"
         },
@@ -8166,7 +8166,7 @@
                 "name": "Bikehangar_H1426",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 30
+                "waiting_list": 29
             },
             "type": "Feature"
         },
@@ -8223,7 +8223,7 @@
                 "name": "Cyclehangar_2424",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 2
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -8261,7 +8261,7 @@
                 "name": "Bikehangar_H1410",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 16
+                "waiting_list": 15
             },
             "type": "Feature"
         },
@@ -8318,7 +8318,7 @@
                 "name": "Cyclehangar_2427",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 0
+                "waiting_list": 1
             },
             "type": "Feature"
         },
@@ -8603,7 +8603,7 @@
                 "name": "Bikehangar_H1416",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 6
+                "waiting_list": 7
             },
             "type": "Feature"
         },
@@ -8812,7 +8812,7 @@
                 "name": "Cyclehangar_2432",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 2
+                "waiting_list": 1
             },
             "type": "Feature"
         },
@@ -9154,7 +9154,7 @@
                 "name": "Cyclehangar_2406",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 1
+                "waiting_list": 0
             },
             "type": "Feature"
         },
@@ -9458,7 +9458,7 @@
                 "name": "Bikehangar_986",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 13
+                "waiting_list": 14
             },
             "type": "Feature"
         },
@@ -9610,7 +9610,7 @@
                 "name": "Cyclehangar_2411",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 1
+                "waiting_list": 2
             },
             "type": "Feature"
         },
@@ -9952,7 +9952,7 @@
                 "name": "Bikehangar_1614",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 18
+                "waiting_list": 19
             },
             "type": "Feature"
         },
@@ -10180,7 +10180,7 @@
                 "name": "Bikehangar_1653",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -10408,7 +10408,7 @@
                 "name": "Bikehangar_1403",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 14
+                "waiting_list": 13
             },
             "type": "Feature"
         },
@@ -10522,7 +10522,7 @@
                 "name": "Bikehangar_1641",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 12
+                "waiting_list": 11
             },
             "type": "Feature"
         },
@@ -10541,7 +10541,7 @@
                 "name": "Bikehangar_1640",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 17
+                "waiting_list": 16
             },
             "type": "Feature"
         },
@@ -10769,7 +10769,7 @@
                 "name": "Bikehangar_1673",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 27
+                "waiting_list": 26
             },
             "type": "Feature"
         },
@@ -10997,7 +10997,7 @@
                 "name": "Bikehangar_1661",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 5
+                "waiting_list": 6
             },
             "type": "Feature"
         },
@@ -11548,7 +11548,7 @@
                 "name": "Bikehangar_1447",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 2
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -11567,7 +11567,7 @@
                 "name": "Bikehangar_1688",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 1
+                "waiting_list": 2
             },
             "type": "Feature"
         },
@@ -12004,7 +12004,7 @@
                 "name": "Bikehangar_908",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 13
+                "waiting_list": 14
             },
             "type": "Feature"
         },
@@ -12061,7 +12061,7 @@
                 "name": "Bikehangar_904",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 20
+                "waiting_list": 19
             },
             "type": "Feature"
         },
@@ -12821,7 +12821,7 @@
                 "name": "Cyclehangar_2193",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 6
+                "waiting_list": 7
             },
             "type": "Feature"
         },
@@ -12916,7 +12916,7 @@
                 "name": "Cyclehangar_2164",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 2
+                "waiting_list": 1
             },
             "type": "Feature"
         },
@@ -13201,7 +13201,7 @@
                 "name": "Cyclehangar_2173",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 13
+                "waiting_list": 14
             },
             "type": "Feature"
         },
@@ -13239,7 +13239,7 @@
                 "name": "Cyclehangar_2175",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 13
+                "waiting_list": 12
             },
             "type": "Feature"
         },
@@ -13258,7 +13258,7 @@
                 "name": "Cyclehangar_2176",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 9
+                "waiting_list": 8
             },
             "type": "Feature"
         },
@@ -13277,7 +13277,7 @@
                 "name": "Cyclehangar_2177",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 4
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -13866,7 +13866,7 @@
                 "name": "Cyclehangar_2150",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 4
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -14075,7 +14075,7 @@
                 "name": "Cyclehangar_2397",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 4
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -14398,7 +14398,7 @@
                 "name": "Cyclehangar_2127",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 4
+                "waiting_list": 3
             },
             "type": "Feature"
         },
@@ -14968,7 +14968,7 @@
                 "name": "Bikehangar_466",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 23
+                "waiting_list": 24
             },
             "type": "Feature"
         },
@@ -14987,7 +14987,7 @@
                 "name": "Bikehangar_223",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 0
+                "waiting_list": 1
             },
             "type": "Feature"
         },
@@ -15101,7 +15101,7 @@
                 "name": "Cyclehangar_2378",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 5
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -15310,7 +15310,7 @@
                 "name": "Cyclehangar_2372",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 1
+                "waiting_list": 2
             },
             "type": "Feature"
         },
@@ -15367,7 +15367,7 @@
                 "name": "Cyclehangar_2373",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -15405,7 +15405,7 @@
                 "name": "Cyclehangar_2132",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 4
+                "waiting_list": 5
             },
             "type": "Feature"
         },
@@ -15500,7 +15500,7 @@
                 "name": "Bikehangar_1460",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 15
+                "waiting_list": 14
             },
             "type": "Feature"
         },
@@ -15557,7 +15557,7 @@
                 "name": "Bikehangar_1461",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 2
             },
             "type": "Feature"
         },
@@ -16868,7 +16868,7 @@
                 "name": "Cyclehangar_2117",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 14
+                "waiting_list": 15
             },
             "type": "Feature"
         },
@@ -17590,7 +17590,7 @@
                 "name": "Cyclehangar_2323",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 9
+                "waiting_list": 10
             },
             "type": "Feature"
         },
@@ -17666,7 +17666,7 @@
                 "name": "Cyclehangar_2325",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 5
+                "waiting_list": 6
             },
             "type": "Feature"
         },
@@ -17837,7 +17837,7 @@
                 "name": "Cyclehangar_2320",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -18730,7 +18730,7 @@
                 "name": "Cyclehangar_2333",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 3
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -18958,7 +18958,7 @@
                 "name": "Bikehangar_439",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 1
+                "waiting_list": 2
             },
             "type": "Feature"
         },
@@ -19623,7 +19623,7 @@
                 "name": "Bikehangar_445",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 3
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -19737,7 +19737,7 @@
                 "name": "Cyclehangar_2556",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 2
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -19908,7 +19908,7 @@
                 "name": "Cyclehangar_2550",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 10
+                "waiting_list": 11
             },
             "type": "Feature"
         },
@@ -19965,7 +19965,7 @@
                 "name": "Cyclehangar_2552",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 5
+                "waiting_list": 6
             },
             "type": "Feature"
         },
@@ -21333,7 +21333,7 @@
                 "name": "Bikehangar_880",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 13
+                "waiting_list": 12
             },
             "type": "Feature"
         },
@@ -21675,7 +21675,7 @@
                 "name": "Cyclehangar_2510",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 2
+                "waiting_list": 1
             },
             "type": "Feature"
         },
@@ -22207,7 +22207,7 @@
                 "name": "Cyclehangar_2508",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 5
+                "waiting_list": 6
             },
             "type": "Feature"
         },
@@ -22663,7 +22663,7 @@
                 "name": "Bikehangar_1550",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 8
+                "waiting_list": 7
             },
             "type": "Feature"
         },
@@ -24031,7 +24031,7 @@
                 "name": "Bikehangar_1715",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 0
+                "waiting_list": 1
             },
             "type": "Feature"
         },
@@ -24145,7 +24145,7 @@
                 "name": "Bikehangar_1719",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 1
+                "waiting_list": 0
             },
             "type": "Feature"
         },
