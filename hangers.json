@@ -6043,7 +6043,7 @@
             "spaces": 6,
             "street": "CLAPTON COMMON",
             "street_usrn": 20900242,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Bikehangar_1637": {
             "actual_end_of_life": null,
@@ -23929,7 +23929,7 @@
             "spaces": 6,
             "street": "BOUVERIE ROAD",
             "street_usrn": null,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2542": {
             "actual_end_of_life": null,
@@ -24543,8 +24543,8 @@
                 "id": "R_RES_STD_Zone_S",
                 "name": "RES_STD_Zone_S"
             },
-            "lat": "51.552416289632674",
-            "long": "-0.05481901940993339",
+            "lat": "51.552372705574555",
+            "long": "-0.054859893503106605",
             "maintenance_key": "T63125",
             "spaces": 6,
             "street": "GOULTON ROAD",
@@ -24569,7 +24569,7 @@
             "spaces": 6,
             "street": "PAINSTHORPE ROAD",
             "street_usrn": null,
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Cyclehangar_2574": {
             "actual_end_of_life": null,
@@ -24669,7 +24669,7 @@
             "spaces": 6,
             "street": "WOODLEA ROAD",
             "street_usrn": null,
-            "waiting_list": 7
+            "waiting_list": 6
         },
         "Cyclehangar_2579": {
             "actual_end_of_life": null,

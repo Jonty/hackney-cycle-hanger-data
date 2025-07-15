@@ -11339,7 +11339,7 @@
                 "name": "Bikehangar_1636",
                 "spaces": 6,
                 "type": "Estate",
-                "waiting_list": 1
+                "waiting_list": 0
             },
             "type": "Feature"
         },
@@ -19737,7 +19737,7 @@
                 "name": "Cyclehangar_2578",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 7
+                "waiting_list": 6
             },
             "type": "Feature"
         },
@@ -19934,8 +19934,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.05481901940993339,
-                    51.552416289632674
+                    -0.054859893503106605,
+                    51.552372705574555
                 ],
                 "type": "Point"
             },
@@ -20003,7 +20003,7 @@
                 "name": "Cyclehangar_2573",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 5
+                "waiting_list": 4
             },
             "type": "Feature"
         },
@@ -20763,7 +20763,7 @@
                 "name": "Cyclehangar_2541",
                 "spaces": 6,
                 "type": "Residential",
-                "waiting_list": 4
+                "waiting_list": 3
             },
             "type": "Feature"
         },
