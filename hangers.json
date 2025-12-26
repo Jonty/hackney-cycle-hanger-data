@@ -1478,7 +1478,7 @@
             "spaces": 6,
             "street": "Dynevor Road",
             "street_usrn": 20900355,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_120": {
             "actual_end_of_life": null,
@@ -2238,7 +2238,7 @@
             "spaces": 6,
             "street": "SANDRINGHAM ROAD",
             "street_usrn": 20900886,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Bikehangar_1404": {
             "actual_end_of_life": null,
@@ -3459,7 +3459,7 @@
             "spaces": 6,
             "street": "LORDSHIP ROAD",
             "street_usrn": 20900638,
-            "waiting_list": 18
+            "waiting_list": 17
         },
         "Bikehangar_1502": {
             "actual_end_of_life": null,
@@ -4179,7 +4179,7 @@
             "spaces": 6,
             "street": "DAUBENEY ROAD",
             "street_usrn": 20900315,
-            "waiting_list": 8
+            "waiting_list": 9
         },
         "Bikehangar_1538": {
             "actual_end_of_life": null,
@@ -4259,7 +4259,7 @@
             "spaces": 6,
             "street": "MEESON STREET",
             "street_usrn": 20900680,
-            "waiting_list": 7
+            "waiting_list": 8
         },
         "Bikehangar_1542": {
             "actual_end_of_life": null,
@@ -12555,7 +12555,7 @@
             "spaces": 6,
             "street": "MIDDLETON ROAD",
             "street_usrn": 20900689,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_887": {
             "actual_end_of_life": null,
@@ -13615,7 +13615,7 @@
             "spaces": 6,
             "street": "ST MARKS RISE",
             "street_usrn": 20900958,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Bikehangar_H1421": {
             "actual_end_of_life": null,
@@ -14335,7 +14335,7 @@
             "spaces": 6,
             "street": "COLVESTONE CRESCENT",
             "street_usrn": 20900270,
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2016": {
             "actual_end_of_life": null,
@@ -18315,7 +18315,7 @@
             "spaces": 6,
             "street": "COLVESTONE CRESCENT",
             "street_usrn": null,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2227": {
             "actual_end_of_life": null,
@@ -23489,7 +23489,7 @@
             "spaces": 6,
             "street": "ARCOLA STREET",
             "street_usrn": 20900078,
-            "waiting_list": 9
+            "waiting_list": 8
         },
         "Cyclehangar_2520": {
             "actual_end_of_life": null,
@@ -24149,7 +24149,7 @@
             "spaces": 6,
             "street": "SANDRINGHAM ROAD",
             "street_usrn": null,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Cyclehangar_2553": {
             "actual_end_of_life": null,
@@ -24609,7 +24609,7 @@
             "spaces": 6,
             "street": "TREHURST STREET",
             "street_usrn": null,
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2576": {
             "actual_end_of_life": null,
@@ -25129,7 +25129,7 @@
             "spaces": 6,
             "street": "GLENARM ROAD",
             "street_usrn": null,
-            "waiting_list": 3
+            "waiting_list": 1
         },
         "Cyclehangar_2602": {
             "actual_end_of_life": "2025-06-06",
@@ -25769,7 +25769,7 @@
             "spaces": 6,
             "street": "BLURTON ROAD",
             "street_usrn": null,
-            "waiting_list": 6
+            "waiting_list": 5
         },
         "Cyclehangar_2634": {
             "actual_end_of_life": null,
@@ -28149,7 +28149,7 @@
             "spaces": 6,
             "street": "ASHENDEN ROAD",
             "street_usrn": 20900082,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Cyclehoop_2249": {
             "actual_end_of_life": null,
