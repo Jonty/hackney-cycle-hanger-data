@@ -778,7 +778,7 @@
             "spaces": 6,
             "street": "Cecilia Road",
             "street_usrn": 20900212,
-            "waiting_list": 7
+            "waiting_list": 6
         },
         "Bikehangar_1090": {
             "actual_end_of_life": null,
@@ -858,7 +858,7 @@
             "spaces": 6,
             "street": "Provost Estate",
             "street_usrn": 20950175,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Bikehangar_1109": {
             "actual_end_of_life": null,
@@ -1698,7 +1698,7 @@
             "spaces": 6,
             "street": "Beatty Road",
             "street_usrn": 20900118,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_1377": {
             "actual_end_of_life": null,
@@ -2378,7 +2378,7 @@
             "spaces": 6,
             "street": "PROVOST STREET",
             "street_usrn": 20900827,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Bikehangar_1448": {
             "actual_end_of_life": null,
@@ -3959,7 +3959,7 @@
             "spaces": 6,
             "street": "BUSHBERRY ROAD",
             "street_usrn": 20900191,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_1527": {
             "actual_end_of_life": null,
@@ -4299,7 +4299,7 @@
             "spaces": 6,
             "street": "RODING ROAD",
             "street_usrn": 20900864,
-            "waiting_list": 7
+            "waiting_list": 8
         },
         "Bikehangar_1544": {
             "actual_end_of_life": null,
@@ -4879,7 +4879,7 @@
             "spaces": 6,
             "street": "BAKERS HILL",
             "street_usrn": 20900095,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Bikehangar_1573": {
             "actual_end_of_life": null,
@@ -4899,7 +4899,7 @@
             "spaces": 6,
             "street": "MOUNT PLEASANT LANE",
             "street_usrn": 20900713,
-            "waiting_list": 6
+            "waiting_list": 7
         },
         "Bikehangar_1574": {
             "actual_end_of_life": null,
@@ -6274,7 +6274,7 @@
             "spaces": 6,
             "street": "LAURISTON ROAD",
             "street_usrn": 20900596,
-            "waiting_list": 9
+            "waiting_list": 10
         },
         "Bikehangar_1648": {
             "actual_end_of_life": null,
@@ -6375,7 +6375,7 @@
             "spaces": 6,
             "street": "GUNTON ROAD",
             "street_usrn": null,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Bikehangar_1653": {
             "actual_end_of_life": null,
@@ -6815,7 +6815,7 @@
             "spaces": 6,
             "street": "MURRAY GROVE",
             "street_usrn": 20900720,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Bikehangar_1675": {
             "actual_end_of_life": null,
@@ -8015,7 +8015,7 @@
             "spaces": 6,
             "street": "Roding Road",
             "street_usrn": 20900864,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Bikehangar_199": {
             "actual_end_of_life": null,
@@ -8335,7 +8335,7 @@
             "spaces": 6,
             "street": "BURMA ROAD",
             "street_usrn": 20900188,
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Bikehangar_257": {
             "actual_end_of_life": null,
@@ -8375,7 +8375,7 @@
             "spaces": 6,
             "street": "CARYSFORT ROAD",
             "street_usrn": 20900204,
-            "waiting_list": 7
+            "waiting_list": 6
         },
         "Bikehangar_259": {
             "actual_end_of_life": null,
@@ -8675,7 +8675,7 @@
             "spaces": 6,
             "street": "SPRINGDALE ROAD",
             "street_usrn": 20900945,
-            "waiting_list": 8
+            "waiting_list": 7
         },
         "Bikehangar_305": {
             "actual_end_of_life": null,
@@ -9735,7 +9735,7 @@
             "spaces": 6,
             "street": "Glyn Road",
             "street_usrn": 20900450,
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Bikehangar_404": {
             "actual_end_of_life": null,
@@ -11175,7 +11175,7 @@
             "spaces": 6,
             "street": "HOMER ROAD",
             "street_usrn": 20900531,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Bikehangar_486": {
             "actual_end_of_life": null,
@@ -15355,7 +15355,7 @@
             "spaces": 6,
             "street": "RODING ROAD",
             "street_usrn": null,
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2067": {
             "actual_end_of_life": null,
@@ -17235,7 +17235,7 @@
             "spaces": 6,
             "street": "ADEN GROVE",
             "street_usrn": 20900037,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2173": {
             "actual_end_of_life": null,
@@ -17955,7 +17955,7 @@
             "spaces": 6,
             "street": "BENN STREET",
             "street_usrn": 20900126,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2209": {
             "actual_end_of_life": null,
@@ -18335,7 +18335,7 @@
             "spaces": 6,
             "street": "RICHMOND ROAD",
             "street_usrn": 20900855,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Cyclehangar_2228": {
             "actual_end_of_life": null,
@@ -18817,7 +18817,7 @@
             "spaces": 6,
             "street": "MOUNT PLEASANT LANE",
             "street_usrn": 20900713,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Cyclehangar_2283": {
             "actual_end_of_life": null,
@@ -19697,7 +19697,7 @@
             "spaces": 6,
             "street": "EBENEZER STREET",
             "street_usrn": null,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2329": {
             "actual_end_of_life": null,
@@ -20597,7 +20597,7 @@
             "spaces": 6,
             "street": "AMHURST ROAD",
             "street_usrn": 20900062,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2374": {
             "actual_end_of_life": null,
@@ -21188,7 +21188,7 @@
             "spaces": 6,
             "street": "LAURISTON ROAD",
             "street_usrn": null,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2403": {
             "actual_end_of_life": null,
@@ -21248,7 +21248,7 @@
             "spaces": 6,
             "street": "RODING ROAD",
             "street_usrn": 20900864,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Cyclehangar_2406": {
             "actual_end_of_life": null,
@@ -21708,7 +21708,7 @@
             "spaces": 6,
             "street": "HASSETT ROAD",
             "street_usrn": null,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2429": {
             "actual_end_of_life": null,
@@ -22408,7 +22408,7 @@
             "spaces": 6,
             "street": "COLVESTONE CRESCENT",
             "street_usrn": 20900270,
-            "waiting_list": 7
+            "waiting_list": 6
         },
         "Cyclehangar_2464": {
             "actual_end_of_life": null,
@@ -22548,7 +22548,7 @@
             "spaces": 6,
             "street": "PROVOST ESTATE",
             "street_usrn": null,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2472": {
             "actual_end_of_life": null,
@@ -23409,7 +23409,7 @@
             "spaces": 6,
             "street": "RODING ROAD",
             "street_usrn": 20900864,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Cyclehangar_2515": {
             "actual_end_of_life": null,
@@ -23469,7 +23469,7 @@
             "spaces": 6,
             "street": "CECILIA ROAD",
             "street_usrn": 20900212,
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2518": {
             "actual_end_of_life": "2025-02-05",
@@ -23769,7 +23769,7 @@
             "spaces": 6,
             "street": "HAWKSLEY ROAD",
             "street_usrn": 20900495,
-            "waiting_list": 9
+            "waiting_list": 6
         },
         "Cyclehangar_2533": {
             "actual_end_of_life": null,
@@ -24249,7 +24249,7 @@
             "spaces": 6,
             "street": "CROPLEY STREET",
             "street_usrn": 20900295,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2557": {
             "actual_end_of_life": null,
@@ -25449,7 +25449,7 @@
             "spaces": 6,
             "street": "RICHMOND ROAD",
             "street_usrn": null,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Cyclehangar_2617": {
             "actual_end_of_life": null,
@@ -25549,7 +25549,7 @@
             "spaces": 6,
             "street": "BENN STREET",
             "street_usrn": null,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2622": {
             "actual_end_of_life": null,
@@ -26769,7 +26769,7 @@
             "spaces": 6,
             "street": "BARNABAS ROAD",
             "street_usrn": null,
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2683": {
             "actual_end_of_life": null,
@@ -28089,7 +28089,7 @@
             "spaces": 6,
             "street": "WILBERFORCE ROAD",
             "street_usrn": null,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2749": {
             "actual_end_of_life": null,
@@ -28289,7 +28289,7 @@
             "spaces": 6,
             "street": "EVERING ROAD",
             "street_usrn": null,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2759": {
             "actual_end_of_life": null,
@@ -28329,7 +28329,7 @@
             "spaces": 6,
             "street": "BOUVERIE ROAD",
             "street_usrn": null,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2761": {
             "actual_end_of_life": null,
@@ -28349,7 +28349,7 @@
             "spaces": 6,
             "street": "HAWKSLEY ROAD",
             "street_usrn": null,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2762": {
             "actual_end_of_life": null,
@@ -29109,7 +29109,7 @@
             "spaces": 6,
             "street": "REIGHTON ROAD",
             "street_usrn": 20900851,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehoop_2262": {
             "actual_end_of_life": null,
