@@ -24,7 +24,7 @@ for key, item in data["hangers"].items():
     # Remap some fields to make them more convenient
     item["waiting_list"] = int(item["waitingList"])
     item["hanger_type"]["id"] = item["hanger_type"]["hanger_id"]
-    item["hanger_type"]["cost_per_year"] = float(item["hanger_type"]["cost"]["Per Year"])
+    item["hanger_type"]["cost_per_year"] = float(item["hanger_type"]["cost"]["Per Year"]["standard"])
 
     # Fixup types
     item["auto_offer_spaces"] = bool(item["auto_offer_spaces"])
