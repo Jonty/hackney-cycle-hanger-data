@@ -30,7 +30,7 @@ for key, item in data["hangers"].items():
     item["auto_offer_spaces"] = bool(item["auto_offer_spaces"])
     item["created"] = parser.parse(item["created"]).isoformat()
     item["end_of_life"] = parser.parse(item["end_of_life"]).isoformat()
-    if item["street_usrn"]:
+    if item.get("street_usrn"):
         item["street_usrn"] = int(item["street_usrn"])
     item["spaces"] = int(item["spaces"])
 
