@@ -131,7 +131,7 @@
             "spaces": 6,
             "street": "Somerford Grove",
             "street_usrn": 20900933,
-            "waiting_list": 4
+            "waiting_list": 6
         },
         "Bikehangar_1001": {
             "auto_offer_spaces": true,
@@ -1137,7 +1137,7 @@
             "spaces": 6,
             "street": "Aden Grove",
             "street_usrn": 20900037,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Bikehangar_1149": {
             "auto_offer_spaces": true,
@@ -1346,7 +1346,7 @@
             "spaces": 6,
             "street": "Alexandra Grove",
             "street_usrn": 20900050,
-            "waiting_list": 6
+            "waiting_list": 5
         },
         "Bikehangar_117": {
             "auto_offer_spaces": true,
@@ -1365,7 +1365,7 @@
             "spaces": 6,
             "street": "Clarence Road",
             "street_usrn": 20900248,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Bikehangar_118": {
             "auto_offer_spaces": true,
@@ -1536,7 +1536,7 @@
             "spaces": 6,
             "street": "DIGBY CRESCENT",
             "street_usrn": 20900330,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Bikehangar_1373": {
             "auto_offer_spaces": true,
@@ -1935,7 +1935,7 @@
             "spaces": 6,
             "street": "Rushmore Road",
             "street_usrn": 20900878,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Bikehangar_1394": {
             "auto_offer_spaces": true,
@@ -2220,7 +2220,7 @@
             "spaces": 6,
             "street": "MINTERN STREET",
             "street_usrn": 20900700,
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Bikehangar_1446": {
             "auto_offer_spaces": true,
@@ -2690,7 +2690,7 @@
             "spaces": 6,
             "street": "MARCON PLACE",
             "street_usrn": 20900657,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Bikehangar_1471": {
             "auto_offer_spaces": true,
@@ -3033,7 +3033,7 @@
             "spaces": 6,
             "street": "PALATINE ROAD",
             "street_usrn": 20900783,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Bikehangar_1489": {
             "auto_offer_spaces": true,
@@ -3505,7 +3505,7 @@
             "spaces": 6,
             "street": "BOCKING STREET",
             "street_usrn": 20900147,
-            "waiting_list": 11
+            "waiting_list": 12
         },
         "Bikehangar_1514": {
             "auto_offer_spaces": true,
@@ -4265,7 +4265,7 @@
             "spaces": 6,
             "street": "ALCONBURY ROAD",
             "street_usrn": 20900049,
-            "waiting_list": 18
+            "waiting_list": 17
         },
         "Bikehangar_1554": {
             "auto_offer_spaces": true,
@@ -4360,7 +4360,7 @@
             "spaces": 6,
             "street": "POWERSCROFT ROAD",
             "street_usrn": 20900816,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Bikehangar_1559": {
             "auto_offer_spaces": true,
@@ -4398,7 +4398,7 @@
             "spaces": 6,
             "street": "DOWNS ROAD",
             "street_usrn": 20900339,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Bikehangar_1561": {
             "auto_offer_spaces": true,
@@ -4454,7 +4454,7 @@
             "maintenance_key": "TBC",
             "spaces": 6,
             "street": "MONRO WAY",
-            "waiting_list": 10
+            "waiting_list": 9
         },
         "Bikehangar_1564": {
             "auto_offer_spaces": true,
@@ -5158,7 +5158,7 @@
             "maintenance_key": "H399773",
             "spaces": 6,
             "street": "EVERING ROAD",
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Bikehangar_1602": {
             "auto_offer_spaces": true,
@@ -5255,7 +5255,7 @@
             "spaces": 6,
             "street": "BROOKE ROAD",
             "street_usrn": 20900177,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_1608": {
             "auto_offer_spaces": true,
@@ -5274,7 +5274,7 @@
             "spaces": 6,
             "street": "CLARENCE ROAD",
             "street_usrn": 20900248,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Bikehangar_1609": {
             "auto_offer_spaces": true,
@@ -5595,7 +5595,7 @@
             "spaces": 6,
             "street": "DIGBY CRESCENT",
             "street_usrn": 20900330,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Bikehangar_1629": {
             "auto_offer_spaces": true,
@@ -5689,7 +5689,7 @@
             "spaces": 6,
             "street": "TUDOR GROVE",
             "street_usrn": 20901015,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_1635": {
             "auto_offer_spaces": true,
@@ -5746,7 +5746,7 @@
             "maintenance_key": "02AA18",
             "spaces": 6,
             "street": "KINGS CRESCENT",
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Bikehangar_1638": {
             "auto_offer_spaces": true,
@@ -6209,7 +6209,7 @@
             "spaces": 6,
             "street": "GOULTON ROAD",
             "street_usrn": 20900458,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Bikehangar_1662": {
             "auto_offer_spaces": true,
@@ -6454,7 +6454,7 @@
             "spaces": 6,
             "street": "MURRAY GROVE",
             "street_usrn": 20900720,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Bikehangar_1675": {
             "auto_offer_spaces": true,
@@ -8818,7 +8818,7 @@
             "spaces": 6,
             "street": "Aden Grove",
             "street_usrn": 20900037,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Bikehangar_374": {
             "auto_offer_spaces": true,
@@ -9824,7 +9824,7 @@
             "spaces": 6,
             "street": "Queens Drive",
             "street_usrn": 20900835,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_439": {
             "auto_offer_spaces": true,
@@ -9938,7 +9938,7 @@
             "spaces": 6,
             "street": "EVERING ROAD",
             "street_usrn": 20900387,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Bikehangar_445": {
             "auto_offer_spaces": true,
@@ -10793,7 +10793,7 @@
             "spaces": 6,
             "street": "EVERING ROAD",
             "street_usrn": 20900387,
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Bikehangar_669": {
             "auto_offer_spaces": true,
@@ -11192,7 +11192,7 @@
             "spaces": 6,
             "street": "Rushmore Road",
             "street_usrn": 20900878,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Bikehangar_796": {
             "auto_offer_spaces": true,
@@ -11971,7 +11971,7 @@
             "spaces": 6,
             "street": "Hassett Road",
             "street_usrn": 20900494,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Bikehangar_892": {
             "auto_offer_spaces": true,
@@ -12446,7 +12446,7 @@
             "spaces": 6,
             "street": "Mildenhall Road",
             "street_usrn": 20900691,
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Bikehangar_984": {
             "auto_offer_spaces": true,
@@ -12653,7 +12653,7 @@
             "maintenance_key": "H5129965/ ifob 104",
             "spaces": 6,
             "street": "BENTHAL ROAD",
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Bikehangar_H1408": {
             "auto_offer_spaces": true,
@@ -12762,7 +12762,7 @@
             "maintenance_key": "H408413/ ifob 72",
             "spaces": 6,
             "street": "FARLEIGH ROAD",
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Bikehangar_H1414": {
             "auto_offer_spaces": true,
@@ -12984,7 +12984,7 @@
             "spaces": 6,
             "street": "PELLERIN ROAD",
             "street_usrn": 20900793,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Bikehangar_H1426": {
             "auto_offer_spaces": true,
@@ -13342,7 +13342,7 @@
             "spaces": 6,
             "street": "CLARENCE ROAD",
             "street_usrn": 20900248,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2004": {
             "auto_offer_spaces": true,
@@ -13599,7 +13599,7 @@
             "maintenance_key": "H528025",
             "spaces": 6,
             "street": "ALCONBURY ROAD",
-            "waiting_list": 12
+            "waiting_list": 11
         },
         "Cyclehangar_2018": {
             "auto_offer_spaces": true,
@@ -13763,7 +13763,7 @@
             "maintenance_key": "H258023",
             "spaces": 6,
             "street": "MAURY ROAD",
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Cyclehangar_2027": {
             "auto_offer_spaces": true,
@@ -13836,7 +13836,7 @@
             "spaces": 6,
             "street": "NEW NORTH ROAD",
             "street_usrn": 20900735,
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Cyclehangar_2031": {
             "auto_offer_spaces": true,
@@ -14187,7 +14187,7 @@
             "spaces": 6,
             "street": "BROOKE ROAD",
             "street_usrn": 20900177,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Cyclehangar_2050": {
             "auto_offer_spaces": true,
@@ -14387,7 +14387,7 @@
             "maintenance_key": "H528000",
             "spaces": 6,
             "street": "MILDENHALL ROAD",
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2061": {
             "auto_offer_spaces": true,
@@ -14586,7 +14586,7 @@
             "spaces": 6,
             "street": "GORE ROAD",
             "street_usrn": 20900454,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2072": {
             "auto_offer_spaces": true,
@@ -15098,7 +15098,7 @@
             "spaces": 6,
             "street": "POWERSCROFT ROAD",
             "street_usrn": 20900816,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2112": {
             "auto_offer_spaces": true,
@@ -15212,7 +15212,7 @@
             "spaces": 6,
             "street": "AMHURST ROAD",
             "street_usrn": 20900062,
-            "waiting_list": 7
+            "waiting_list": 6
         },
         "Cyclehangar_2118": {
             "auto_offer_spaces": true,
@@ -15322,7 +15322,7 @@
             "maintenance_key": "H565707",
             "spaces": 6,
             "street": "MABLEY STREET",
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Cyclehangar_2124": {
             "auto_offer_spaces": true,
@@ -15341,7 +15341,7 @@
             "spaces": 6,
             "street": "RUSHMORE ROAD",
             "street_usrn": 20900878,
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2125": {
             "auto_offer_spaces": true,
@@ -15378,7 +15378,7 @@
             "spaces": 6,
             "street": "NEVILL ROAD",
             "street_usrn": 20900729,
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2127": {
             "auto_offer_spaces": true,
@@ -15414,7 +15414,7 @@
             "maintenance_key": "H5129933",
             "spaces": 6,
             "street": "FARLEIGH ROAD",
-            "waiting_list": 6
+            "waiting_list": 7
         },
         "Cyclehangar_2129": {
             "auto_offer_spaces": true,
@@ -15451,7 +15451,7 @@
             "maintenance_key": "H527926",
             "spaces": 6,
             "street": "ADOLPHUS ROAD",
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2131": {
             "auto_offer_spaces": true,
@@ -15488,7 +15488,7 @@
             "spaces": 6,
             "street": "GLOUCESTER DRIVE",
             "street_usrn": 20900448,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2133": {
             "auto_offer_spaces": true,
@@ -15507,7 +15507,7 @@
             "spaces": 6,
             "street": "DARVILLE ROAD",
             "street_usrn": 20900314,
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Cyclehangar_2134": {
             "auto_offer_spaces": true,
@@ -15526,7 +15526,7 @@
             "spaces": 6,
             "street": "SOMERFORD GROVE",
             "street_usrn": 20900933,
-            "waiting_list": 3
+            "waiting_list": 5
         },
         "Cyclehangar_2135": {
             "auto_offer_spaces": true,
@@ -15582,7 +15582,7 @@
             "spaces": 6,
             "street": "DIGBY CRESCENT",
             "street_usrn": 20900330,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2138": {
             "auto_offer_spaces": true,
@@ -15874,7 +15874,7 @@
             "maintenance_key": "H565632",
             "spaces": 6,
             "street": "SHEPHERDESS WALK",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2154": {
             "auto_offer_spaces": true,
@@ -15967,7 +15967,7 @@
             "maintenance_key": "H562775",
             "spaces": 6,
             "street": "NAVARINO GROVE",
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2159": {
             "auto_offer_spaces": true,
@@ -16132,7 +16132,7 @@
             "maintenance_key": "H562828",
             "spaces": 6,
             "street": "FLETCHING ROAD",
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Cyclehangar_2168": {
             "auto_offer_spaces": true,
@@ -16245,7 +16245,7 @@
             "spaces": 6,
             "street": "SIGDON ROAD",
             "street_usrn": 20900923,
-            "waiting_list": 6
+            "waiting_list": 7
         },
         "Cyclehangar_2174": {
             "auto_offer_spaces": true,
@@ -16282,7 +16282,7 @@
             "maintenance_key": "H565629",
             "spaces": 6,
             "street": "HABERDASHER STREET",
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2176": {
             "auto_offer_spaces": true,
@@ -16356,7 +16356,7 @@
             "maintenance_key": "H565656",
             "spaces": 6,
             "street": "DARNLEY ROAD",
-            "waiting_list": 6
+            "waiting_list": 5
         },
         "Cyclehangar_2180": {
             "auto_offer_spaces": true,
@@ -16559,7 +16559,7 @@
             "maintenance_key": "H565721",
             "spaces": 6,
             "street": "LAVELL STREET",
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Cyclehangar_2191": {
             "auto_offer_spaces": true,
@@ -16794,7 +16794,7 @@
             "maintenance_key": "H565649",
             "spaces": 6,
             "street": "TUDOR GROVE",
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2204": {
             "auto_offer_spaces": true,
@@ -16850,7 +16850,7 @@
             "spaces": 6,
             "street": "GOULTON ROAD",
             "street_usrn": 20900458,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2207": {
             "auto_offer_spaces": true,
@@ -16924,7 +16924,7 @@
             "maintenance_key": "H565705",
             "spaces": 6,
             "street": "ORIEL ROAD",
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Cyclehangar_2211": {
             "auto_offer_spaces": true,
@@ -17092,7 +17092,7 @@
             "spaces": 6,
             "street": "ELLINGFORT ROAD",
             "street_usrn": 20901679,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2220": {
             "auto_offer_spaces": true,
@@ -17111,7 +17111,7 @@
             "spaces": 6,
             "street": "ADLEY STREET",
             "street_usrn": 20900038,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2221": {
             "auto_offer_spaces": true,
@@ -17129,7 +17129,7 @@
             "maintenance_key": "H527992",
             "spaces": 6,
             "street": "CHIPPENDALE STREET",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2222": {
             "auto_offer_spaces": true,
@@ -17428,7 +17428,7 @@
             "maintenance_key": "H562766",
             "spaces": 6,
             "street": "ALVINGTON CRESCENT",
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2269": {
             "auto_offer_spaces": true,
@@ -17758,7 +17758,7 @@
             "spaces": 6,
             "street": "BOCKING STREET",
             "street_usrn": 20900147,
-            "waiting_list": 10
+            "waiting_list": 11
         },
         "Cyclehangar_2287": {
             "auto_offer_spaces": true,
@@ -17994,7 +17994,7 @@
             "maintenance_key": "H565635",
             "spaces": 6,
             "street": "WENLOCK ROAD",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2300": {
             "auto_offer_spaces": true,
@@ -18228,7 +18228,7 @@
             "maintenance_key": "H5111147",
             "spaces": 6,
             "street": "FARLEIGH ROAD",
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2313": {
             "auto_offer_spaces": true,
@@ -18247,7 +18247,7 @@
             "spaces": 6,
             "street": "SOMERFORD GROVE",
             "street_usrn": 20900933,
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2314": {
             "auto_offer_spaces": true,
@@ -18283,7 +18283,7 @@
             "maintenance_key": "H527929",
             "spaces": 6,
             "street": "ADOLPHUS ROAD",
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Cyclehangar_2316": {
             "auto_offer_spaces": true,
@@ -18301,7 +18301,7 @@
             "maintenance_key": "H565677",
             "spaces": 6,
             "street": "QUEENS DRIVE",
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2317": {
             "auto_offer_spaces": true,
@@ -18536,7 +18536,7 @@
             "spaces": 6,
             "street": "POWERSCROFT ROAD",
             "street_usrn": 20900816,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2332": {
             "auto_offer_spaces": true,
@@ -18573,7 +18573,7 @@
             "spaces": 6,
             "street": "GOULTON ROAD",
             "street_usrn": 20900458,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2334": {
             "auto_offer_spaces": true,
@@ -18630,7 +18630,7 @@
             "spaces": 6,
             "street": "BODNEY ROAD",
             "street_usrn": 20900148,
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Cyclehangar_2337": {
             "auto_offer_spaces": true,
@@ -18648,7 +18648,7 @@
             "maintenance_key": "H5111140",
             "spaces": 6,
             "street": "EVERING ROAD",
-            "waiting_list": 7
+            "waiting_list": 6
         },
         "Cyclehangar_2338": {
             "auto_offer_spaces": true,
@@ -18797,7 +18797,7 @@
             "spaces": 6,
             "street": "GREENWOOD ROAD",
             "street_usrn": 20900470,
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Cyclehangar_2346": {
             "auto_offer_spaces": true,
@@ -18816,7 +18816,7 @@
             "spaces": 6,
             "street": "FREMONT STREET",
             "street_usrn": 20900425,
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Cyclehangar_2347": {
             "auto_offer_spaces": true,
@@ -19059,7 +19059,7 @@
             "spaces": 6,
             "street": "SYLVESTER ROAD",
             "street_usrn": 20900989,
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2360": {
             "auto_offer_spaces": true,
@@ -19299,7 +19299,7 @@
             "spaces": 6,
             "street": "AMHURST ROAD",
             "street_usrn": 20900062,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2373": {
             "auto_offer_spaces": true,
@@ -19354,7 +19354,7 @@
             "maintenance_key": "H565748",
             "spaces": 6,
             "street": "QUEENSDOWN ROAD",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2376": {
             "auto_offer_spaces": true,
@@ -19390,7 +19390,7 @@
             "maintenance_key": "H5111104",
             "spaces": 6,
             "street": "ACER ROAD",
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2378": {
             "auto_offer_spaces": true,
@@ -19449,7 +19449,7 @@
             "spaces": 6,
             "street": "BURMA ROAD",
             "street_usrn": 20900188,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2381": {
             "auto_offer_spaces": true,
@@ -19934,7 +19934,7 @@
             "maintenance_key": " H565630",
             "spaces": 6,
             "street": "NEW NORTH ROAD",
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2407": {
             "auto_offer_spaces": true,
@@ -20043,7 +20043,7 @@
             "maintenance_key": "H565717",
             "spaces": 6,
             "street": "GORE ROAD",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2413": {
             "auto_offer_spaces": true,
@@ -20210,7 +20210,7 @@
             "spaces": 6,
             "street": "RUSHMORE ROAD",
             "street_usrn": 20900878,
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2422": {
             "auto_offer_spaces": true,
@@ -20282,7 +20282,7 @@
             "maintenance_key": "H5111179",
             "spaces": 6,
             "street": "SIGDON ROAD",
-            "waiting_list": 2
+            "waiting_list": 4
         },
         "Cyclehangar_2426": {
             "auto_offer_spaces": true,
@@ -20300,7 +20300,7 @@
             "maintenance_key": "T63151",
             "spaces": 6,
             "street": "BELGRADE ROAD",
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2427": {
             "auto_offer_spaces": true,
@@ -20318,7 +20318,7 @@
             "maintenance_key": "H5111109",
             "spaces": 6,
             "street": "FINSBURY PARK ROAD",
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2428": {
             "auto_offer_spaces": true,
@@ -20336,7 +20336,7 @@
             "maintenance_key": "H565704",
             "spaces": 6,
             "street": "HASSETT ROAD",
-            "waiting_list": 3
+            "waiting_list": 4
         },
         "Cyclehangar_2429": {
             "auto_offer_spaces": true,
@@ -20391,7 +20391,7 @@
             "spaces": 6,
             "street": "BENTHAL ROAD",
             "street_usrn": 20900127,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2432": {
             "auto_offer_spaces": true,
@@ -20518,7 +20518,7 @@
             "maintenance_key": "H528026",
             "spaces": 6,
             "street": "MAURY ROAD",
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2439": {
             "auto_offer_spaces": true,
@@ -20573,7 +20573,7 @@
             "maintenance_key": "T63155",
             "spaces": 6,
             "street": "RUSHMORE ROAD",
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Cyclehangar_2442": {
             "auto_offer_spaces": true,
@@ -21075,7 +21075,7 @@
             "spaces": 6,
             "street": "CLARISSA STREET",
             "street_usrn": 20900249,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2469": {
             "auto_offer_spaces": true,
@@ -21256,7 +21256,7 @@
             "maintenance_key": "T62963",
             "spaces": 6,
             "street": "BARRETTS GROVE",
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2480": {
             "auto_offer_spaces": true,
@@ -21347,7 +21347,7 @@
             "spaces": 6,
             "street": "SOMERFORD GROVE",
             "street_usrn": 20900933,
-            "waiting_list": 3
+            "waiting_list": 5
         },
         "Cyclehangar_2485": {
             "auto_offer_spaces": true,
@@ -21643,7 +21643,7 @@
             "maintenance_key": "T62958",
             "spaces": 6,
             "street": "PELLERIN ROAD",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2501": {
             "auto_offer_spaces": true,
@@ -21979,7 +21979,7 @@
             "spaces": 6,
             "street": "FOREST ROAD",
             "street_usrn": 20900417,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2519": {
             "auto_offer_spaces": true,
@@ -22055,7 +22055,7 @@
             "maintenance_key": "T63181",
             "spaces": 6,
             "street": "BEATTY ROAD",
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2523": {
             "auto_offer_spaces": true,
@@ -22164,7 +22164,7 @@
             "maintenance_key": "T63104",
             "spaces": 6,
             "street": "REIGHTON ROAD",
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2529": {
             "auto_offer_spaces": true,
@@ -22329,7 +22329,7 @@
             "maintenance_key": "T63093",
             "spaces": 6,
             "street": "THISTLEWAITE ROAD",
-            "waiting_list": 3
+            "waiting_list": 2
         },
         "Cyclehangar_2538": {
             "auto_offer_spaces": true,
@@ -22347,7 +22347,7 @@
             "maintenance_key": "T63176",
             "spaces": 6,
             "street": "BELGRADE ROAD",
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2539": {
             "auto_offer_spaces": true,
@@ -22365,7 +22365,7 @@
             "maintenance_key": "T63175",
             "spaces": 6,
             "street": "FARLEIGH ROAD",
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Cyclehangar_2540": {
             "auto_offer_spaces": true,
@@ -22708,7 +22708,7 @@
             "maintenance_key": "T63203",
             "spaces": 6,
             "street": "PALATINE ROAD",
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Cyclehangar_2559": {
             "auto_offer_spaces": true,
@@ -22726,7 +22726,7 @@
             "maintenance_key": "T63116",
             "spaces": 6,
             "street": "CLAPTON SQUARE",
-            "waiting_list": 6
+            "waiting_list": 5
         },
         "Cyclehangar_2560": {
             "auto_offer_spaces": true,
@@ -22892,7 +22892,7 @@
             "maintenance_key": "T63152",
             "spaces": 6,
             "street": "BELGRADE ROAD",
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2569": {
             "auto_offer_spaces": true,
@@ -22965,7 +22965,7 @@
             "maintenance_key": "T63125",
             "spaces": 6,
             "street": "GOULTON ROAD",
-            "waiting_list": 4
+            "waiting_list": 3
         },
         "Cyclehangar_2573": {
             "auto_offer_spaces": true,
@@ -23526,7 +23526,7 @@
             "maintenance_key": "T63373",
             "spaces": 6,
             "street": "DUNLACE ROAD",
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2604": {
             "auto_offer_spaces": true,
@@ -23580,7 +23580,7 @@
             "maintenance_key": "T63356",
             "spaces": 6,
             "street": "MAURY ROAD",
-            "waiting_list": 2
+            "waiting_list": 3
         },
         "Cyclehangar_2607": {
             "auto_offer_spaces": true,
@@ -23616,7 +23616,7 @@
             "maintenance_key": "T62964",
             "spaces": 6,
             "street": "ALEXANDRA GROVE",
-            "waiting_list": 6
+            "waiting_list": 5
         },
         "Cyclehangar_2609": {
             "auto_offer_spaces": true,
@@ -23832,7 +23832,7 @@
             "maintenance_key": "T63348",
             "spaces": 6,
             "street": "QUEENSDOWN ROAD",
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2621": {
             "auto_offer_spaces": true,
@@ -23868,7 +23868,7 @@
             "maintenance_key": "T63342",
             "spaces": 6,
             "street": "HASSETT ROAD",
-            "waiting_list": 4
+            "waiting_list": 5
         },
         "Cyclehangar_2623": {
             "auto_offer_spaces": true,
@@ -24689,7 +24689,7 @@
             "maintenance_key": "T52092",
             "spaces": 6,
             "street": "PRINCESS MAY ROAD",
-            "waiting_list": 1
+            "waiting_list": 2
         },
         "Cyclehangar_2668": {
             "auto_offer_spaces": true,
@@ -25421,7 +25421,7 @@
             "spaces": 6,
             "street": "LEE CONSERVANCY ROAD",
             "street_usrn": 20900610,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2708": {
             "auto_offer_spaces": true,
@@ -25495,7 +25495,7 @@
             "maintenance_key": "T52133",
             "spaces": 6,
             "street": "PELLERIN ROAD",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2712": {
             "auto_offer_spaces": true,
@@ -25714,7 +25714,7 @@
             "spaces": 6,
             "street": "ELDERFIELD ROAD",
             "street_usrn": 20900374,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2724": {
             "actual_end_of_life": "2025-11-06",
@@ -26120,7 +26120,7 @@
             "spaces": 6,
             "street": "ALCONBURY ROAD",
             "street_usrn": 20900049,
-            "waiting_list": 2
+            "waiting_list": 1
         },
         "Cyclehangar_2746": {
             "auto_offer_spaces": true,
@@ -26265,7 +26265,7 @@
             "maintenance_key": "T63032",
             "spaces": 6,
             "street": "SWINNERTON STREET",
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehangar_2754": {
             "auto_offer_spaces": true,
@@ -26359,7 +26359,7 @@
             "maintenance_key": "H5129934",
             "spaces": 6,
             "street": "EVERING ROAD",
-            "waiting_list": 5
+            "waiting_list": 4
         },
         "Cyclehangar_2759": {
             "auto_offer_spaces": true,
@@ -26377,7 +26377,7 @@
             "maintenance_key": "T52134",
             "spaces": 6,
             "street": "BELGRADE ROAD",
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2760": {
             "auto_offer_spaces": true,
@@ -26640,7 +26640,7 @@
             "maintenance_key": "TBC",
             "spaces": 6,
             "street": "LAVERS ROAD",
-            "waiting_list": 0
+            "waiting_list": 2
         },
         "Cyclehangar_2774": {
             "auto_offer_spaces": true,
@@ -26658,7 +26658,7 @@
             "maintenance_key": "T63422",
             "spaces": 6,
             "street": "WOODLEA ROAD",
-            "waiting_list": 5
+            "waiting_list": 6
         },
         "Cyclehangar_2775": {
             "auto_offer_spaces": true,
@@ -26806,7 +26806,7 @@
             "maintenance_key": "T62880",
             "spaces": 6,
             "street": "HEMSWORTH STREET",
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2783": {
             "auto_offer_spaces": true,
@@ -26860,7 +26860,7 @@
             "maintenance_key": "T63409",
             "spaces": 6,
             "street": "PERCH STREET",
-            "waiting_list": 0
+            "waiting_list": 2
         },
         "Cyclehangar_2786": {
             "auto_offer_spaces": true,
@@ -26968,7 +26968,7 @@
             "maintenance_key": "T62920",
             "spaces": 6,
             "street": "PARAGON ROAD",
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2792": {
             "auto_offer_spaces": true,
@@ -27041,7 +27041,7 @@
             "maintenance_key": "T52132",
             "spaces": 6,
             "street": "SYDNER ROAD",
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2796": {
             "auto_offer_spaces": true,
@@ -27133,7 +27133,7 @@
             "spaces": 6,
             "street": "STANWAY STREET",
             "street_usrn": 20900969,
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2801": {
             "auto_offer_spaces": true,
@@ -27188,7 +27188,7 @@
             "maintenance_key": "T63439",
             "spaces": 6,
             "street": "REIGHTON ROAD",
-            "waiting_list": 0
+            "waiting_list": 2
         },
         "Cyclehangar_2804": {
             "auto_offer_spaces": true,
@@ -27206,7 +27206,7 @@
             "maintenance_key": "T63434",
             "spaces": 6,
             "street": "DARVILLE ROAD",
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2805": {
             "auto_offer_spaces": true,
@@ -27224,7 +27224,7 @@
             "maintenance_key": "T63460",
             "spaces": 6,
             "street": "ELEANOR ROAD",
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2806": {
             "actual_end_of_life": "2026-06-30",
@@ -27261,7 +27261,7 @@
             "maintenance_key": "T52126",
             "spaces": 6,
             "street": "LISTRIA PARK",
-            "waiting_list": 0
+            "waiting_list": 2
         },
         "Cyclehangar_2808": {
             "auto_offer_spaces": true,
@@ -27977,7 +27977,7 @@
             "maintenance_key": "TBC",
             "spaces": 6,
             "street": "PARKHOLME ROAD",
-            "waiting_list": 0
+            "waiting_list": 1
         },
         "Cyclehangar_2846": {
             "actual_end_of_life": "2026-08-24",
@@ -28091,7 +28091,7 @@
             "spaces": 6,
             "street": "FOULDEN ROAD",
             "street_usrn": 20900420,
-            "waiting_list": 7
+            "waiting_list": 6
         },
         "Cyclehoop_2239": {
             "auto_offer_spaces": true,
@@ -28110,7 +28110,7 @@
             "spaces": 6,
             "street": "PELLERIN ROAD",
             "street_usrn": 20900793,
-            "waiting_list": 1
+            "waiting_list": 0
         },
         "Cyclehoop_2240": {
             "auto_offer_spaces": true,
